@@ -11,3 +11,7 @@ in no particular order...
  strips the punctuation and forces it into uppercase. It then transposes
  the characters and returns the ciphertext in blocks of 5 letters.
  It's also possible to decrypt a ciphertext that has been encoded with this cipher.
+
+[string-from-cosets.py](./string-from-cosets.py)
+ -- I'm working on a Vigenere decryption problem and I needed this to reverse a function that shifts
+ characters in a ciphertext into co-sets. 
