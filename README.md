@@ -4,7 +4,7 @@
 in no particular order...
 
 [sowpods.txt](./sowpods.txt)
- This is an english dictionary. Its ~260,000 words are uppercase. One word/line.
+ -- This is an english dictionary. Its ~260,000 words are uppercase. One word/line.
 
 [substitution.py](./substitution.py)
  -- This is a simple substitution cipher. It takes a string from the user,
