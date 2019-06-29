@@ -1,8 +1,8 @@
-''' 
-Generates a random user password that includes
-characters from user's name and birth year
-'''
+#Generates a random user password that includes
+#characters from user's name and birth year
+
 import random
+
 
 first = str(input("Enter your First Name: "))
 last = str(input("Enter your Last Name: "))
