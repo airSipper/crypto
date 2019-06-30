@@ -18,3 +18,6 @@ in no particular order...
 
 [pwgen.py](./pwgen.py)
  -- This is a really simple password generator. It takes a users name and birth year and combines them with some symbols. It then selects characters at random from that list out to n characters to produce the password.
+
+[ceasarshifts.py](./ceasarshifts.py)
+ -- Another simple cipher that returns a dict of all ceasar rotations for a given string. 
