@@ -21,3 +21,6 @@ in no particular order...
 
 [ceasarshifts.py](./ceasarshifts.py)
  -- Another simple cipher that returns a dict of all ceasar rotations for a given string. 
+
+[prime-or-composite.py](./prime-or-composite.py)
+ -- Shows whether numbers in a range are prime or composite
