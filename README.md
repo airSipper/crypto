@@ -15,3 +15,6 @@ in no particular order...
 [string-from-cosets.py](./string-from-cosets.py)
  -- I'm working on a Vigenere decryption problem and I needed this to reverse a function that shifts
  characters in a ciphertext into co-sets. 
+
+[pwgen.py](./pwgen.py)
+ -- This is a really simple password generator. It takes a users name and birth year and combines them with some symbols. It then selects characters at random from that list out to n characters to produce the password.
